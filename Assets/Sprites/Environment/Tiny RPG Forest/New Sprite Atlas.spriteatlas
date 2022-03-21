@@ -40,10 +40,14 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 1dd98a59e8d748f4b9a8078efbeef817, type: 3}
+    totalSpriteSurfaceArea: 35072
     bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: -8257082106947371374, guid: 1dd98a59e8d748f4b9a8078efbeef817, type: 3}
@@ -321,5 +325,6 @@ SpriteAtlas:
   - TinyRPG_Modified V2_135
   - TinyRPG_Modified V2_134
   - TinyRPG_Modified V2_136
+  m_RenderDataMap: {}
   m_Tag: New Sprite Atlas
   m_IsVariant: 0
